@@ -1,0 +1,10 @@
+filename = 'bays29.tsp'
+numAntsList = [30, 125]
+initPheromoneAmt = 0.0001
+numCities = 29
+alphaList = [9, 5, 2]
+betaList = [12, 2, 1]
+maxIter = 500
+evapRate = 0.2
+q0 = 0.6
+decayCoeffList = [0.2, 0.4, 0.6]
